@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlateMightsight", "PlateMightsight\PlateMightsight.csproj", "{3340B3DC-4919-45CC-BBFA-6926BBE811CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3340B3DC-4919-45CC-BBFA-6926BBE811CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3340B3DC-4919-45CC-BBFA-6926BBE811CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3340B3DC-4919-45CC-BBFA-6926BBE811CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3340B3DC-4919-45CC-BBFA-6926BBE811CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B440D7DE-C50C-4F1E-A217-9B3A7174DC65}
+	EndGlobalSection
+EndGlobal
